@@ -1,0 +1,6 @@
+{
+  "appId": "io.ccd.ilstechnik",
+  "appName": "Cacao Demo",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
